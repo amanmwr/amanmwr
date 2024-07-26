@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aman Malviya
 - 👀 I’m interested in Design & Development
-- 🌱 I’m currently learning php + laravel + codegnater 
+- 🌱 I’m Working On + laravel + codegnater + Nodejs  
 - 💞️ I’m looking to collaborate on Project 
 - Buy me a Coffie (You Want to help Mee - https://paypal.me/AMANMWR?country.x=IN&locale.x=en_GB)
 
